@@ -2,6 +2,7 @@
   "name": "quiz2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/Juliolikescoding/react-quiz2.git",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
